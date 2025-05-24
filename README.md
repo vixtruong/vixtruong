@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Truong Le Duc Vi</h1>
+<h1>Hi 👋, I'm Truong Le Duc Vi</h1>
 
-<p align="center">
+<p>
   I'm a software development student passionate about building scalable and maintainable applications using clean architecture principles.<br />
   I enjoy exploring design patterns, RESTful APIs, and microservices. Currently, I'm developing real-world projects with ASP.NET Core, Angular, and Microsoft Azure.<br />
   I love solving problems and writing clean, efficient code. I'm always eager to learn, collaborate, and contribute to impactful projects.
@@ -10,7 +10,7 @@
 
 <h2>🚀 Languages & Tools</h2>
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -34,7 +34,7 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=vixtruong&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vixtruong&layout=compact&theme=dracula&langs_count=6" height="150" />
 </div>
@@ -43,7 +43,7 @@
 
 <h2>🌐 Connect with me</h2>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/vixtruong/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
