@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # chạy mỗi ngày lúc 00:00 UTC
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
