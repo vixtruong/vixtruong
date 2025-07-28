@@ -29,17 +29,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
----
-
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vixtruong&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vixtruong&layout=compact&theme=dracula&langs_count=6" height="150" />
-</div>
-
----
-
 <h2>🌐 Connect with me</h2>
 
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/vixtruong/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
