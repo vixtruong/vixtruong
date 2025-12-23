@@ -5,11 +5,14 @@
   <a href="https://www.linkedin.com/in/vixtruong/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/ducvi.truong.1001/" target="_blank">
+  <a href="https://web.facebook.com/vixtruongg/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:truongleducvi1001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://vixtruong-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
