@@ -20,74 +20,116 @@
 I'm a **software engineering student** with a strong interest in **backend development using .NET**.  
 I enjoy designing **clean, scalable systems**, applying **Clean Architecture**, and building **RESTful APIs & microservices**.
 
-My goal is to become a solid backend engineer who writes **maintainable code**, understands **system design**, and can collaborate well in real-world projects.
-
 ---
 
-## 🧠 Core Skills
+## 🧠 Technical Skills
 
-### 🔹 Backend Development (.NET)
-- C#, OOP, SOLID principles  
+### 🔹 Backend (.NET)
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+</p>
+
+- C#, OOP, SOLID  
 - ASP.NET Core Web API, MVC  
-- RESTful API design & best practices  
-- Authentication & Authorization (JWT, Role-based access)  
-- Background Services & scheduled jobs  
+- RESTful API design  
+- JWT Authentication, Role-based Authorization  
+- Background Services, Hosted Services  
+
+---
 
 ### 🔹 Architecture & System Design
-- Clean Architecture  
-- Layered architecture  
-- Basic Microservices concepts  
-- API Gateway with **Ocelot**  
-- Dependency Injection, Repository pattern  
 
-### 🔹 Data & Persistence
-- Entity Framework Core (Code First, Migrations)  
-- Dapper (performance-focused queries)  
-- LINQ optimization  
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/603/603197.png" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006542.png" width="40" height="40"/>
+</p>
+
+- Clean Architecture  
+- Layered Architecture  
+- Microservices fundamentals  
+- API Gateway (**Ocelot**)  
+- Dependency Injection, Repository Pattern  
+
+---
+
+### 🔹 Database & ORM
+
+<p>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/entityframework/entityframework-original.svg" width="40" height="40"/>
+</p>
+
 - SQL Server (primary), MySQL, PostgreSQL  
-- Database design, indexing, stored procedures  
+- Database design, indexing  
+- Entity Framework Core (Code First, Migrations)  
+- Dapper, LINQ optimization  
+
+---
 
 ### 🔹 Real-time & Performance
-- WebSocket / SignalR for real-time features  
-- Redis (caching, pub/sub, performance optimization)  
+
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/3208/3208726.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+- WebSocket / SignalR  
+- Redis caching & pub/sub  
+- Performance optimization basics  
 
 ---
 
-## 🎨 Frontend Knowledge (Supporting Skills)
+### 🔹 Frontend (Supporting Skills)
 
-> Not UI-heavy, but enough to work end-to-end & collaborate smoothly with frontend teams
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
+</p>
 
-- JavaScript / TypeScript  
-- Angular, React, Next.js (basic–intermediate)  
-- Flutter (mobile app integration with backend)  
-- HTML5, CSS3, Bootstrap, Tailwind CSS  
-
----
-
-## ☁️ DevOps & Tools
-
-- Docker (containerizing APIs & services)  
-- Microsoft Azure (basic deployment & services)  
-- IIS / Nginx (basic setup & reverse proxy)  
-- Git & GitHub (branching, pull requests)  
-- Postman (API testing & documentation)  
-
----
-
-## 🧩 What I Care About
-
-- Writing **clean, readable, maintainable code**
-- Understanding **why** something works, not just how  
-- Continuous learning & improving backend fundamentals  
-- Building systems that scale and are easy to extend  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+### 🔹 DevOps & Tools
 
-- LinkedIn: https://www.linkedin.com/in/vixtruong/  
-- Facebook: https://www.facebook.com/ducvi.truong.1001/  
-- Email: truongleducvi1001@gmail.com  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</p>
+
+- Docker containerization  
+- Basic Azure services & deployment  
+- IIS / Nginx (basic configuration)  
+- Git flow, pull requests  
+- API testing & debugging  
+
+---
+
+## 🧩 Engineering Mindset
+
+- Clean code over quick hacks  
+- Think in **system & architecture**, not just features  
+- Prefer simplicity, clarity, and maintainability  
+- Always improving backend fundamentals  
 
 ---
 
