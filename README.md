@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-Software engineering student focusing on **.NET backend development**.  
+Software engineer focusing on **.NET backend development**.  
 I enjoy building **clean, scalable systems**, applying **Clean Architecture**, and working with **RESTful APIs & microservices**.
 
 ---
