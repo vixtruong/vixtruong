@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Truong Le Duc Vi</h1>
-<h3 align="center">Fresher Fullstack Developer | .NET Backend Focus</h3>
+# Hi there 👋, I'm **Truong Le Duc Vi**
+
+<p align="center">
+  <strong>Fresher Fullstack Developer</strong> • <strong>.NET Backend Focus</strong>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vixtruong/" target="_blank">
@@ -20,90 +23,68 @@
 
 ## 👨‍💻 About Me
 
-Software engineer focusing on **.NET backend development**.  
-I enjoy building **clean, scalable systems**, applying **Clean Architecture**, and working with **RESTful APIs & microservices**.
+I’m a software developer focused on **.NET backend engineering**.  
+I enjoy building systems that are:
+
+- Clean and maintainable
+- Scalable and performance-oriented
+- Practical for real business use
+
+I’m especially interested in **Clean Architecture**, **RESTful APIs**, and **microservice-oriented design**.
 
 ---
 
-## 🧠 Skills
+## 🧠 Technical Skills
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-  
-  ### Backend & Data
-  
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="34" height="34"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="34" height="34"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="34" height="34"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="34" height="34"/>
-  </p>
-  
-  - **C#**, OOP, SOLID  
-  - **ASP.NET Core** (Web API, MVC), RESTful APIs  
-  - **JWT**, Role-based Authorization  
-  - **Clean Architecture**, DI, Repository Pattern  
-  - **Microservices** basics, **Ocelot API Gateway**  
-  - Background Services / Hosted Services  
-  - Real-time: **WebSocket / SignalR**  
-  - **Redis** caching, pub/sub  
-  
-  <p>
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="34" height="34"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="34" height="34"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="34" height="34"/>
-  </p>
-  
-  - **SQL Server** (primary), MySQL, PostgreSQL  
-  - Database design, indexing, stored procedures  
-  - **EF Core** (Migrations), **Dapper**, LINQ optimization  
-  
-      </td>
-  
-      <td valign="top" width="50%">
-  
-  ### Frontend & Tools
-  
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="34" height="34"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="34" height="34"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="34" height="34"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="34" height="34"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="34" height="34"/>
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="34" height="34"/>
-  </p>
-  
-  - JavaScript / TypeScript  
-  - Angular, React, Next.js (supporting skills)  
-  - Flutter (mobile app integration)  
-  - HTML, CSS, Bootstrap, Tailwind  
-  
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="34" height="34"/>
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="34" height="34"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="34" height="34"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="34" height="34"/>
-  </p>
-  
-  - Docker (containerizing services)  
-  - Azure (basic deployment/services)  
-  - Git/GitHub (branching, PRs)  
-  - Postman (testing & documenting APIs)  
-  - Basic IIS / Nginx, reverse proxy, HTTPS  
-  
-      </td>
-    </tr>
-  </table>
-</div>
+### Backend & Architecture
+- **C#**, OOP, SOLID
+- **ASP.NET Core** (Web API, MVC)
+- Authentication: **JWT**, Role-based Authorization
+- **Clean Architecture**, Dependency Injection, Repository Pattern
+- Background jobs: **Hosted Services / BackgroundService**
+- Real-time communication: **SignalR / WebSocket**
+- API Gateway basics: **Ocelot**
+- Caching & messaging basics: **Redis**
+
+### Database & Data Access
+- **SQL Server** (main), MySQL, PostgreSQL
+- Database design, indexing, query optimization
+- **Entity Framework Core** (Migrations)
+- **Dapper**, LINQ tuning
+- Stored procedures and relational modeling
+
+### Frontend & Supporting Stack
+- JavaScript / TypeScript
+- Angular, React, Next.js (supporting)
+- Flutter (integration level)
+- HTML, CSS, Bootstrap, TailwindCSS
+
+### DevOps & Tools
+- Docker (containerization)
+- Azure (basic deployment/services)
+- Git/GitHub workflow (branching, PR)
+- Postman (API testing/documentation)
+- Basic IIS / Nginx, reverse proxy, HTTPS
 
 ---
 
-## 🧩 Mindset
+## 🧩 Engineering Mindset
 
-- Prefer **clean, maintainable code**  
-- Think in **system design**, not just features  
-- Keep learning & improving fundamentals  
+- Prefer **readable, maintainable code** over quick hacks
+- Think in **system design**, not only feature implementation
+- Improve continuously through projects and feedback
+- Focus on building strong backend fundamentals first
 
-⭐ Thanks for visiting my GitHub!
+---
+
+## 📌 Current Direction
+
+- Strengthening advanced ASP.NET Core and distributed system knowledge
+- Practicing scalable architecture patterns in real projects
+- Improving performance optimization and production-ready coding practices
+
+---
+
+<p align="center">
+  ⭐ Thank you for visiting my profile!
+</p>
