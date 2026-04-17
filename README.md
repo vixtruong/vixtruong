@@ -84,6 +84,12 @@ I am a software developer with a strong emphasis on **backend engineering and sy
 
 ## 🔒 Security & Auth
 
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2.0-000000?style=for-the-badge&logo=oauth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+</p>
+
 * **Standards & Tools:** JWT, OAuth 2.0, Spring Security.
 
 ---
