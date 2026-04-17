@@ -61,12 +61,11 @@ I am a software developer with a strong emphasis on **backend engineering and sy
 
 <p align="left">
   <img src="https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white" />
   <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-* **.NET Ecosystem:** ASP.NET Core MVC, ASP.NET Core Web API, Blazor (Server & WebAssembly), Background Services/Jobs.
-* **Java Ecosystem:** Spring Boot, Spring MVC, Spring WebFlux, Spring Cloud, Spring Security, Spring Data JPA.
+* **.NET Ecosystem:** ASP.NET Core MVC, ASP.NET Core Web API, Background Services/Jobs.
+* **Java Ecosystem:** Spring Boot, Spring MVC, Spring WebFlux, Spring Cloud, Spring Security, Spring Data JPA, Spring Batch.
 * **Data Access:** EF Core, EF Migrations, Dapper, LINQ.
 * **Security & Auth:** JWT, OAuth 2.0.
 
@@ -91,6 +90,7 @@ I am a software developer with a strong emphasis on **backend engineering and sy
 ## 🎨 Frontend & Mobile
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
@@ -100,7 +100,7 @@ I am a software developer with a strong emphasis on **backend engineering and sy
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
-* **Frameworks & Libraries:** React.js, Next.js, Flutter, WinForms.
+* **Frameworks & Libraries:** Blazor (Server & WebAssembly), React.js, Next.js, Flutter, WinForms.
 * **Core Web & Styling:** HTML5, CSS3, TailwindCSS.
 * **State & Data Handling:** Redux, Redux Toolkit, Axios, React Router.
 
