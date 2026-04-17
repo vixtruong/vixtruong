@@ -22,9 +22,9 @@
 
 I am a software developer with a strong emphasis on **backend engineering and system architecture**. I specialize in the **.NET ecosystem**, building robust, scalable, and maintainable systems using modern architectural patterns.
 
-* **Architectural Focus:** Highly passionate about **Clean Architecture**, **Microservices**, and **Event-Driven Architecture**.
-* **System Design:** Experienced in decoupling systems using the **Mediator Pattern (MediatR)**, implementing **CQRS**, and handling distributed components with message queues and event buses.
-* **Fullstack Capabilities:** While my core strength lies in deep backend logic, I build seamless full-stack applications integrating modern frontends like **React.js**, **Next.js**, and **Flutter**.
+* [cite_start]**Architectural Focus:** Highly passionate about **Clean Architecture**, **Microservices**, and **Event-Driven Architecture**.
+* [cite_start]**System Design:** Experienced in decoupling systems using the **Mediator Pattern (MediatR)**, implementing **CQRS**, and handling distributed components with message queues and event buses.
+* [cite_start]**Fullstack Capabilities:** While my core strength lies in deep backend logic, I build seamless full-stack applications integrating modern frontends like **React.js**, **Next.js**, and **Flutter**.
 
 ---
 
@@ -37,9 +37,9 @@ I am a software developer with a strong emphasis on **backend engineering and sy
   <img src="https://img.shields.io/badge/Event--Driven%20Architecture-0078D4?style=for-the-badge" />
 </p>
 
-* **Architecture:** Clean Architecture, Microservices, Event-Driven Architecture.
-* **Patterns & Principles:** CQRS, Mediator Pattern, Dependency Injection (DI).
-* **API Design:** RESTful APIs.
+* [cite_start]**Architecture:** Clean Architecture, Microservices, Event-Driven Architecture.
+* [cite_start]**Patterns & Principles:** CQRS, Mediator Pattern, Dependency Injection (DI).
+* [cite_start]**API Design:** RESTful APIs.
 
 ---
 
@@ -53,21 +53,38 @@ I am a software developer with a strong emphasis on **backend engineering and sy
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
-* C#, Java, JavaScript (ES6+), TypeScript, Python.
+* [cite_start]C#, Java, JavaScript (ES6+), TypeScript, Python[cite: 1, 20].
 
 ---
 
-## ⚙️ Backend & Frameworks
+## ⚙️ Backend Frameworks
 
 <p align="left">
   <img src="https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-* **.NET Ecosystem:** ASP.NET Core MVC, ASP.NET Core Web API, Background Services/Jobs.
-* **Java Ecosystem:** Spring Boot, Spring MVC, Spring WebFlux, Spring Cloud, Spring Security, Spring Data JPA, Spring Batch.
-* **Data Access:** EF Core, EF Migrations, Dapper, LINQ.
-* **Security & Auth:** JWT, OAuth 2.0.
+* [cite_start]**.NET:** ASP.NET Core MVC, ASP.NET Core Web API.
+* [cite_start]**Java:** Spring Boot, Spring MVC, Spring WebFlux, Spring Cloud.
+
+---
+
+## 🗄️ Data Access
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+* [cite_start]**Technologies:** EF Core, EF Migrations, Dapper, LINQ, Spring Data JPA.
+* [cite_start]**Databases:** SQL Server, MySQL, PostgreSQL.
+
+---
+
+## 🔒 Security & Auth
+
+* [cite_start]**Standards & Tools:** JWT, OAuth 2.0, Spring Security.
 
 ---
 
@@ -80,19 +97,19 @@ I am a software developer with a strong emphasis on **backend engineering and sy
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
-* **Real-time:** SignalR, WebSocket.
-* **Caching & Messaging:** Redis, RabbitMQ, Event Bus, Message Queue.
-* **Gateway & Discovery:** Ocelot, Spring Cloud Gateway, Eureka.
-* **Integration & Mediation:** MediatR.
+* [cite_start]**Real-time & Background:** Background Services/Jobs, SignalR, WebSocket.
+* [cite_start]**Caching & Messaging:** Redis, RabbitMQ, Event Bus, Message Queue.
+* [cite_start]**Gateway & Discovery:** Ocelot, Spring Cloud Gateway, Eureka.
+* [cite_start]**Integration & Mediation:** MediatR, RabbitMQ.
 
 ---
 
-## 🎨 Frontend & Mobile
+## 🎨 Frontend Development
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -100,21 +117,9 @@ I am a software developer with a strong emphasis on **backend engineering and sy
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
-* **Frameworks & Libraries:** Blazor (Server & WebAssembly), React.js, Next.js, Flutter, WinForms.
-* **Core Web & Styling:** HTML5, CSS3, TailwindCSS.
-* **State & Data Handling:** Redux, Redux Toolkit, Axios, React Router.
-
----
-
-## 🗄️ Databases
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-* **Databases:** SQL Server, MySQL, PostgreSQL.
+* [cite_start]**Frameworks & Libraries:** React.js, Next.js, Blazor (Server & WebAssembly), Flutter, WinForms.
+* [cite_start]**Core Web & Styling:** HTML5, CSS3.
+* [cite_start]**State Handling:** Redux, Redux Toolkit, Axios, React Router.
 
 ---
 
@@ -128,9 +133,9 @@ I am a software developer with a strong emphasis on **backend engineering and sy
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-* **Cloud (Azure):** App Services, Azure SQL Database, Azure Blob Storage.
-* **Containerization & Servers:** Docker, IIS (Windows), Nginx, Linux (Ubuntu).
-* **AI Developer Productivity:** Claude, GitHub Copilot, ChatGPT.
+* [cite_start]**Cloud (Azure):** App Services, Azure SQL Database, Azure Blob Storage.
+* [cite_start]**Containerization & Servers:** Docker, IIS (Windows), Nginx, Linux (Ubuntu).
+* [cite_start]**AI Developer Productivity:** Claude, GitHub Copilot, ChatGPT.
 
 ---
 
