@@ -97,7 +97,7 @@ I am a software developer with a strong emphasis on **backend engineering and sy
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
-* **Real-time & Background:** Background Services/Jobs, SignalR, WebSocket.
+* **Real-time & Background:** Background Services/Jobs, Spring Batch, SignalR, WebSocket.
 * **Caching & Messaging:** Redis, RabbitMQ, Event Bus, Message Queue.
 * **Gateway & Discovery:** Ocelot, Spring Cloud Gateway, Eureka.
 * **Integration & Mediation:** MediatR, RabbitMQ.
